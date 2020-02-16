@@ -10,7 +10,11 @@ Ter estudado em uma area tão dinamica quantos jogos digitais me fez perceber qu
 
 [Para ver minhas artes clique aqui.](https://www.artstation.com/carlosvinicius1) | [Para ver meus jogos clique aqui.](https://vini-portifolio.itch.io/)
 
-Atualmente eu estou trabalhando com densenvolvimento mobile, focando em Android (Java e Kotlin) e pretendo me aperfeiçoar neste trabalho durante os proximos anos.
+Atualmente eu estou trabalhando com densenvolvimento mobile, focando em Android (Java e Kotlin) e pretendo me aperfeiçoar neste trabalho durante os proximos anos. Tenho alguns projetos pessoais em desenvolvimento, mas durante minha carreira como desenvolvedor mobile eu já trabalhei com mais de 5 projetos diferentes, em todos eu era o desenvolvedor pleno de Android.
+
+AS linguagens que eu mais uso atualmente em meus projetos são:
+
+**C#**  `[#################---]`| **Java** `[#############-------]`| **Kotlin** `[########------------]`| **JS** `[########------------]`
 
 
 
