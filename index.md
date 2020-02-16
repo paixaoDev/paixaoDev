@@ -14,8 +14,8 @@ Atualmente eu estou trabalhando com densenvolvimento mobile, focando em Android 
 
 AS linguagens que eu mais uso atualmente em meus projetos são:
 
-**C#**  `[##############---]`| **Java** `[##########------]`
-**Kotlin** `[########--------]`| **JS** `[#########--------]`
+**C#**     `[##############---]`| **Java** `[##########-------]`
+**Kotlin** `[########---------]` | **JS**  `[#########--------]`
 
 
 
