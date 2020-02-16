@@ -8,7 +8,7 @@ Ter estudado em uma area tão dinamica quantos jogos digitais me fez perceber qu
 
 **Já fui até professor no caminho!**
 
-[Para ver minhas artes clique aqui.](https://www.artstation.com/carlosvinicius1) | [Para ver meus jogos clique aqui.] (https://vini-portifolio.itch.io/)
+[Para ver minhas artes clique aqui.](https://www.artstation.com/carlosvinicius1) | [Para ver meus jogos clique aqui.](https://vini-portifolio.itch.io/)
 
 Atualmente eu estou trabalhando com densenvolvimento mobile, focando em Android (Java e Kotlin) e pretendo me aperfeiçoar neste trabalho durante os proximos anos.
 
