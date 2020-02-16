@@ -1,6 +1,7 @@
 theme: jekyll-theme-minimal
 title: Carlos Vinicius
 description: Um pouco sobre mim, um pouco sobre meu trabalho
+logo: https://raw.githubusercontent.com/paixaoDev/portifa/master/IMG_20190911_132153.jpg
 
 is_project_page: false
 is_user_page: true
