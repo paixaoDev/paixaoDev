@@ -2,9 +2,9 @@
 
 Antes de começar a mostrar meus trabalhos preciso falar um pouco de mim e um pouco sobre o que eu faço.
 
-Garoto pobre vindo da periferia da **zona sul de São Paulo**, passei boa parte da miha vida desenhando, era muito fã de desenhos de todos os tipos, principalmente animado e por boa parte da minha vida achei que trabalharia com isso. Com o passar dos anos estudei bastante sobre jogos digitais (terminei fazendo um curso de 4 anos inclusive). 
+Garoto da periferia da **zona sul de São Paulo**, passei boa parte da miha vida desenhando, era muito fã de desenhos de todos os tipos, principalmente animado, e por boa parte da minha vida achei que trabalharia com isso. Com o passar dos anos estudei bastante sobre jogos digitais (terminei fazendo um curso de 4 anos). 
 
-Ter estudado em uma area tão dinamica quantos jogos digitais me fez perceber que eu tinha outras capacidades, que eu poderia passar por **arte**, **modelagem** e **animação**, mas também por **programação**! E com o passar dos anos eu fui sozinho conduzindo meus conhecimentos para diferentes vertentes da programação.
+Ter estudado em uma área tão dinâmica quanto jogos digitais me fez perceber que eu tinha outras capacidades, que eu poderia passar por **arte**, **modelagem** e **animação**, mas também por **programação**! E com o passar dos anos fui conduzindo meus conhecimentos para diferentes vertentes da programação.
 
 **Já fui até professor no caminho!**
 
@@ -20,18 +20,22 @@ AS linguagens que eu mais uso atualmente em meus projetos são:
 
 ### Projetos Desenvolvidos
 
-**Master Bakers (app Android)** - _Layout, Notificações, Google Play, Regra de negócio, etc._  
+**São Paulo FC (app Android)** - _Layout, Notificações, Google Play, Regra de negócio, etc..._  
+App oficial do time de futebol São Paulo Futebol Clube, desenvolvimento completo em android.  
+_Empresa: SportsMatch_  (link: [https://cutt.ly/ayAi1Xe](https://cutt.ly/ayAi1Xe) )
+
+**Master Bakers (app Android)** - _Layout, Notificações, Google Play, Regra de negócio, etc..._  
 Receita, treinamentos e premiações para lojistas do ramo de panificação.  
 _Empresa: SportsMatch_ (link: [https://cutt.ly/5tItRA7](https://cutt.ly/5tItRA7) )
 
-**Puratos (app Android)** - _Layout, Notificações, Google Play, Regra de negócio, etc._  
+**Puratos (app Android)** - _Layout, Notificações, Google Play, Regra de negócio, etc..._  
 Venda de consumos e treinamentos de colaboradores.  
 _Empresa: SportsMatch_ (link: [https://cutt.ly/FtItW7v](https://cutt.ly/FtItW7v) )
 
-**Be3 (app Android)** - _Layout, Google Play, Regra de negócio, etc._  
+**Be3 (app Android)** - _Layout, Google Play, Regra de negócio, etc..._  
 Controle de resultados, agenda de provas e ranking para triatletas.  
 _Empresa: SportsMatch_ (link: [https://cutt.ly/etItQwz](https://cutt.ly/etItQwz) )
 
-**SportsMatch (app Android)** - _Layout, Notificações, Google Play, Regra de negócio, etc._  
+**SportsMatch (app Android)** - _Layout, Notificações, Google Play, Regra de negócio, etc..._  
 Controle de resultados e comparador de atletas de diversos meios.  
 _Empresa: SportsMatch_  (link: [https://cutt.ly/ctItx4b](https://cutt.ly/ctItx4b) )
