@@ -23,6 +23,7 @@ AS linguagens que eu mais uso atualmente em meus projetos são:
 **São Paulo FC (app Android)** - _Layout, Notificações, Google Play, Regra de negócio, etc..._  
 App oficial do time de futebol São Paulo Futebol Clube, desenvolvimento completo em android.  
 _Empresa: SportsMatch_  (link: [https://cutt.ly/ayAi1Xe](https://cutt.ly/ayAi1Xe) )
+relacionado: [radioChart](https://github.com/paixaoDev/RadioChartView)
 
 **Master Bakers (app Android)** - _Layout, Notificações, Google Play, Regra de negócio, etc..._  
 Receita, treinamentos e premiações para lojistas do ramo de panificação.  
