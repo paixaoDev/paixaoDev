@@ -35,4 +35,4 @@ _Empresa: SportsMatch_ (link: [https://cutt.ly/etItQwz](https://cutt.ly/etItQwz)
 Controle de resultados e comparador de atletas de diversos meios.  
 _Empresa: SportsMatch_  (link: [https://cutt.ly/ctItx4b](https://cutt.ly/ctItx4b) )
 
-![](https://komarev.com/ghpvc/?username=paixaoDev&color=lightgrey&style=flat-square
+![](https://komarev.com/ghpvc/?username=paixaoDev&color=lightgrey&style=flat-square)
