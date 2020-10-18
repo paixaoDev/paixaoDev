@@ -1,3 +1,5 @@
+![capa github](https://raw.githubusercontent.com/paixaoDev/paixaoDev/master/images/65fzMo.jpeg)  
+
 ### Bem vindo a minha pagina do GitHub
 
 #### Download CV [[PDF File]](https://www.dropbox.com/s/tz3wgg2pmk0jsyh/Curr%C3%ADculo%20%282%29.pdf?dl=0) | [[WORD File]](https://www.dropbox.com/s/gh4ygheglemu0jg/Curr%C3%ADculo.docx?dl=0)
