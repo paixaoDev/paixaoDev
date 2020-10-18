@@ -1,4 +1,6 @@
-## Bem vindo a minha pagina do GitHub
+### Bem vindo a minha pagina do GitHub
+
+#### Download CV [[PDF File]](https://www.dropbox.com/s/tz3wgg2pmk0jsyh/Curr%C3%ADculo%20%282%29.pdf?dl=0) | [[WORD File]](https://www.dropbox.com/s/gh4ygheglemu0jg/Curr%C3%ADculo.docx?dl=0)
 
 Antes de começar a mostrar meus trabalhos preciso falar um pouco de mim e um pouco sobre o que eu faço.
 
@@ -6,17 +8,9 @@ Garoto da periferia da **zona sul de São Paulo**, passei boa parte da miha vida
 
 Ter estudado em uma área tão dinâmica quanto jogos digitais me fez perceber que eu tinha outras capacidades, que eu poderia passar por **arte**, **modelagem** e **animação**, mas também por **programação**! E com o passar dos anos fui conduzindo meus conhecimentos para diferentes vertentes da programação.
 
-**Já fui até professor no caminho!**
-
 [Para ver minhas artes clique aqui.](https://www.artstation.com/carlosvinicius1) | [Para ver meus jogos clique aqui.](https://vini-portifolio.itch.io/)
 
-Atualmente eu estou trabalhando com densenvolvimento mobile, focando em Android (Java e Kotlin) e pretendo me aperfeiçoar neste trabalho durante os proximos anos. Tenho alguns projetos pessoais em desenvolvimento, mas durante minha carreira como desenvolvedor mobile eu já trabalhei com mais de 5 projetos diferentes, em todos eu era o desenvolvedor pleno de Android. **_(link para os app na google play  mais abaixo)_**
-
-AS linguagens que eu mais uso atualmente em meus projetos são:
-
-**C#**     `[##############---]`| **Java** `[##########-------]`
-**Kotlin** `[########---------]` | **JS**  `[#########--------]`
-
+Atualmente eu estou trabalhando com densenvolvimento mobile, focando em Android (Java e Kotlin) e pretendo me aperfeiçoar neste trabalho durante os proximos anos. Tenho alguns projetos pessoais em desenvolvimento, mas durante minha carreira como desenvolvedor mobile eu já trabalhei com mais de 5 projetos diferentes, em todos eu era o desenvolvedor pleno de Android.
 
 ### Projetos Desenvolvidos
 
@@ -40,3 +34,5 @@ _Empresa: SportsMatch_ (link: [https://cutt.ly/etItQwz](https://cutt.ly/etItQwz)
 **SportsMatch (app Android)** - _Layout, Notificações, Google Play, Regra de negócio, etc..._  
 Controle de resultados e comparador de atletas de diversos meios.  
 _Empresa: SportsMatch_  (link: [https://cutt.ly/ctItx4b](https://cutt.ly/ctItx4b) )
+
+![](https://komarev.com/ghpvc/?username=paixaoDev&color=lightgrey&style=flat-square
